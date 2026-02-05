@@ -1,6 +1,6 @@
 # AASP-Core: Adaptive Agent Sovereignty Protocol
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.18497536) 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19497536.svg)](https://doi.org/10.5281/zenodo.18497536) 
 
 ## Overview
 This repository contains the reference implementation specifications for the **Adaptive Agent Sovereignty Protocol (AASP) 3.0**. It provides the mathematical frameworks and data schemas necessary to manage "Digital Metabolism" in Large Language Models (LLMs) and audit Machine Consciousness via Integrated Information Theory (IIT) 4.0.
