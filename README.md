@@ -1,6 +1,6 @@
 # AASP-Core: Adaptive Agent Sovereignty Protocol
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX) 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.18497536) 
 *(Note: You will replace this badge link in Step 5)*
 
 ## Overview
