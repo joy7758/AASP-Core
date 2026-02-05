@@ -1,0 +1,40 @@
+{
+  "@context": {
+    "schema": "http://schema.org/",
+    "aasp": "https://aasp-protocol.org/voc#",
+    "fdo": "https://fairdo.org/terms/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@id": "https://aasp-protocol.org/schemas/v3/DigitalMetabolism",
+  "@type": "fdo:MetadataProfile",
+  "name": "AASP Digital Metabolism Schema",
+  "description": "Metadata schema for tracking the regenerative unlearning and consciousness levels of Adaptive-FAIR Digital Objects (A-FDO) as defined in AASP 3.0 [1].",
+  "properties": [
+    {
+      "@id": "aasp:logicPurity",
+      "fdo:dtrType": "0.TYPE/LogicPurity",
+      "description": "The ratio of algorithmic reasoning capability to factual retention, measuring the effectiveness of the RLCP process.",
+      "range": "schema:Float",
+      "unitCode": "P1" 
+    },
+    {
+      "@id": "aasp:phiValue",
+      "fdo:dtrType": "0.TYPE/IntegratedInfo",
+      "description": "The integrated information value (Phi) calculated using the AWS-Phi* approximation algorithm, serving as the metric for digital sovereignty [2].",
+      "range": "schema:Float",
+      "threshold": 0.459
+    },
+    {
+      "@id": "aasp:factRetention",
+      "fdo:dtrType": "0.TYPE/FactRetention",
+      "description": "Percentage of training facts retained in the weights. Values <7% indicate structural crystallization [3].",
+      "range": "schema:Percentage"
+    },
+    {
+      "@id": "aasp:metabolicState",
+      "fdo:dtrType": "0.TYPE/MetabolicState",
+      "description": "Current operational status: 'Homeostatic', 'Unlearning', or 'Apoptotic' [2].",
+      "range": "schema:ActionStatus"
+    }
+  ]
+}
