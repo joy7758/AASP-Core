@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-02-22T14:59:54Z",
+  "repository": "AASP-Core",
+  "standard_id": "RR-AASP",
+  "status": "Draft",
+  "summary_en": "Core algorithms and schemas for Adaptive Agent Sovereignty Protocol.",
+  "summary_cn": "自适应代理主权协议的核心算法与数据模式。",
+  "github_url": "https://github.com/joy7758/AASP-Core",
+  "governance_hub": "https://github.com/joy7758/RedRock-Constitution",
+  "registry_url": "https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/STANDARDS_REGISTRY.md#rr-aasp",
+  "repos_index_url": "https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/REPOS_INDEX_CN_EN.md",
+  "ecosystem_graph_url": "https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/ECOSYSTEM_GRAPH_CN_EN.md",
+  "quality_workflow": "https://github.com/joy7758/AASP-Core/actions/workflows/quality-baseline.yml",
+  "keywords": [
+    "aasp",
+    "fair-digital-object",
+    "llm-governance",
+    "digital-metabolism",
+    "iit"
+  ],
+  "language_support": [
+    "zh-CN",
+    "en"
+  ],
+  "related_repositories": [
+    {
+      "name": "ISAS-Core",
+      "url": "https://github.com/joy7758/ISAS-Core",
+      "standard_id": "RR-ISAS"
+    },
+    {
+      "name": "pFDO-Specification",
+      "url": "https://github.com/joy7758/pFDO-Specification",
+      "standard_id": "RR-pFDO"
+    },
+    {
+      "name": "aro-audit",
+      "url": "https://github.com/joy7758/aro-audit",
+      "standard_id": "RR-ARO"
+    },
+    {
+      "name": "RedRock-Constitution",
+      "url": "https://github.com/joy7758/RedRock-Constitution",
+      "standard_id": "RR-CORE"
+    }
+  ]
+}

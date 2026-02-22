@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "AASP-Core"
+type: software
+authors:
+  - family-names: "Zhang"
+    given-names: "Bin"
+repository-code: "https://github.com/joy7758/AASP-Core"
+url: "https://github.com/joy7758/AASP-Core"
+abstract: "Core algorithms and schemas for Adaptive Agent Sovereignty Protocol."
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.18497536"
+keywords:
+  - aasp
+  - fair-digital-object
+  - llm-governance
+  - digital-metabolism
+  - iit
