@@ -1,6 +1,42 @@
 # AASP-Core: Adaptive Agent Sovereignty Protocol
 # AASP-Core: 自适应代理主权协议
 
+<!-- SEARCH_VISIBILITY_BEGIN -->
+## Discoverability Snapshot / 检索曝光摘要
+
+- Standard ID / 标准编号: `RR-AASP`
+- Repository / 仓库名: `AASP-Core`
+
+### EN Summary / 英文摘要
+Core algorithms and schemas for Adaptive Agent Sovereignty Protocol.
+
+### CN Summary / 中文摘要
+自适应代理主权协议的核心算法与数据模式。
+
+### SEO Keywords / 检索关键词
+`aasp`, `fair-digital-object`, `llm-governance`, `digital-metabolism`, `iit`
+
+### Suggested Search Phrases (EN)
+- AASP-Core RR-AASP open standard
+- AASP-Core aasp fair-digital-object github
+- RR-AASP aasp reference implementation
+
+### 建议检索短语（中文）
+- AASP-Core RR-AASP 标准 规范
+- AASP-Core aasp fair-digital-object 仓库
+- RR-AASP 参考实现 红岩 宪章
+
+### Quick Links / 快速入口
+- Governance Hub / 总入口: https://github.com/joy7758/RedRock-Constitution
+- Standards Registry / 标准注册表: https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/STANDARDS_REGISTRY.md#rr-aasp
+- Repos Index / 仓库索引: https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/REPOS_INDEX_CN_EN.md
+- Ecosystem Graph / 生态关系图: https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/ECOSYSTEM_GRAPH_CN_EN.md
+- Onepager / 一页纸: https://github.com/joy7758/AASP-Core/blob/main/docs/onepager/RR-AASP_ONEPAGER_CN_EN.md
+- Citation / 引用元数据: `CITATION.cff`
+- Security Policy / 安全策略: `SECURITY.md`
+- Machine-readable / 机器可读: `machine-readable/repository.json`
+<!-- SEARCH_VISIBILITY_END -->
+
 ## Bilingual Governance Notice
 
 ## Standard Domain Entry / 标准域入口
