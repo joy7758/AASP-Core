@@ -38,6 +38,7 @@ Core algorithms and schemas for Adaptive Agent Sovereignty Protocol.
 - Repos Index / 仓库索引: https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/REPOS_INDEX_CN_EN.md
 - Ecosystem Graph / 生态关系图: https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/ECOSYSTEM_GRAPH_CN_EN.md
 - Onepager / 一页纸: https://github.com/joy7758/AASP-Core/blob/main/docs/onepager/RR-AASP_ONEPAGER_CN_EN.md
+- RC1 Addendum / RC1 补充: https://github.com/joy7758/AASP-Core/blob/main/docs/rc1/RR-AASP_MIP_GATE_RC1_CN_EN.md
 - Citation / 引用元数据: `CITATION.cff`
 - Security Policy / 安全策略: `SECURITY.md`
 - Machine-readable / 机器可读: `machine-readable/repository.json`
@@ -51,6 +52,7 @@ Core algorithms and schemas for Adaptive Agent Sovereignty Protocol.
 - Registry Row / 注册表定位：https://github.com/joy7758/RedRock-Constitution/blob/main/docs/registry/STANDARDS_REGISTRY.md#rr-aasp
 - Hub / 总入口：https://github.com/joy7758/RedRock-Constitution
 - Onepager / 一页纸：`docs/onepager/RR-AASP_ONEPAGER_CN_EN.md`
+- RC1 Addendum / RC1 补充：`docs/rc1/RR-AASP_MIP_GATE_RC1_CN_EN.md`
 
 **CN**: 所有标准文档均以中文与英文同步发布，英文为完整翻译版本。  
 **EN**: All standards are published in Chinese and English, and the English content must be a full translation.
@@ -123,6 +125,7 @@ https://github.com/joy7758/RedRock-Constitution
 ## Onepager / 一页纸
 
 - `RR-AASP` Onepager / 一页纸：`docs/onepager/RR-AASP_ONEPAGER_CN_EN.md`
+- `RR-AASP` RC1 Addendum / RC1 补充：`docs/rc1/RR-AASP_MIP_GATE_RC1_CN_EN.md`
 - Hub / 总入口：https://github.com/joy7758/RedRock-Constitution
 
 <!-- ECOSYSTEM_LINKS_BEGIN -->
