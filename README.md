@@ -1,6 +1,11 @@
 # AASP-Core: Adaptive Agent Sovereignty Protocol
 # AASP-Core: 自适应代理主权协议
 
+> Legacy lineage repository.
+> Historical context for the earlier DPP / sovereignty / governance formation phase.
+> Not part of the current canonical five-layer verifiable autonomous systems stack.
+> Current canonical entry: [joy7758](https://github.com/joy7758) profile and [digital-biosphere-architecture](https://github.com/joy7758/digital-biosphere-architecture).
+
 <!-- SEARCH_VISIBILITY_BEGIN -->
 ## Discoverability Snapshot / 检索曝光摘要
 
@@ -78,6 +83,10 @@ This repository contains the reference implementation specifications for the **A
 - **Location / 位置**: `/schemas/aasp_ontology.jsonld`
 - **Description**: A JSON-LD schema compliant with **FDO-DTR (FAIR Digital Object Data Type Registry)** standards. It defines kernel attributes for:
     - `logicPurity`: The decoupling rate of logic from facts.
+
+## Current relationship to the main line
+
+This repository is a governance precursor from the earlier agent sovereignty phase. It preserves concepts that fed into later governance and audit thinking, but the current canonical line is the five-layer VAST stack rather than AASP itself.
     - `factRetention`: Metrics for structural crystallization (<7% threshold).
     - `phiValue`: Real-time sovereignty auditing metric.
 - **描述**: 符合 **FDO-DTR (FAIR 数字对象数据类型注册表)** 标准的 JSON-LD 模式。它定义了以下核心属性：
